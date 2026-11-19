@@ -1,0 +1,1 @@
+import{d as a,B as e,h as n,b as p,c as r}from"./D2LCWP8P.js";const l=a({name:"Paragraph",props:{...e,tag:{type:String,default:"p"}},setup(o,t){const s=r(o);return()=>n(o.tag,p(s),t.slots)}});export{l as _};

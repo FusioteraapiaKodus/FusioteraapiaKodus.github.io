@@ -1,0 +1,1 @@
+import{e as a,d as o,B as m,h as s,b as u,c as i}from"./D2LCWP8P.js";const l={fluid:{type:Boolean},thumbnail:{type:Boolean}};function c(t){return{class:a(()=>({"img-fluid":t.fluid,"img-thumbnail":t.thumbnail})),attr:{loading:"lazy"}}}const g=o({name:"Image",props:{...m,...l,tag:{type:String,default:"img"}},setup(t){const e=i(t),n=c(t);return()=>s(t.tag,u(n,e))}});export{g as _};
